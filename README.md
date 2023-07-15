@@ -1,4 +1,4 @@
-# Rental-Prices-Dataset-Wroclaw-2007-2023
+# Rental_Price_Prediction
 
 Rental Prices Analysis and Prediction Model
 
